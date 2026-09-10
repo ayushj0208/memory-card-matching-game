@@ -1,6 +1,8 @@
 # Memory Card Matching Game
 
-![Logo](logo.jpg)
+<p align="center">
+  <img src="logo.jpg" width="180">
+</p>
 
 ## Overview
 
