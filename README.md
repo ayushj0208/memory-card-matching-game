@@ -1,5 +1,7 @@
 # Memory Card Matching Game
 
+![Logo](logo.jpg)
+
 ## Overview
 
 This is a card matching game built for iOS using SwiftUI. Players flip two cards at a time and try to find matching pairs before time runs out. The project follows an MVVM architecture and started as a course project, then was extended with a scoring system, custom themes, and saved game history.
