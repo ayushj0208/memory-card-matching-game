@@ -55,8 +55,6 @@ Scoring rules:
 
 A short demo video of the app in action is included in this repository as Video Project.mp4.
 
-## Credits
 
-This project began as an assignment for Stanford's CS193p course (Spring 2020) and was extended by our team with additional features listed above. The original MIT License in this repository credits Archie Liu (2021) as the author of the base project structure.
 
 
